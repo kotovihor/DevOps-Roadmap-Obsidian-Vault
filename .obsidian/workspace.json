@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ce501e42018e3794",
+    "type": "split",
+    "children": [
+      {
+        "id": "7228c75838ac2dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96e7d9b7c3dd67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting Started with Go and the Web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad7f309903759dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c27473296d8064b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae843207551eefd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da033ab316d0f8a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a08330ef635a948a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "d76c722c37dba05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f35b967629dc730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9db509fa537c468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Getting Started with Go and the Web"
+            }
+          },
+          {
+            "id": "73150d5cc565c9e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Getting Started with Go and the Web"
+            }
+          },
+          {
+            "id": "421ee03b2913dd8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "093b83a8155ab362",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ed4273cc33fe3e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Getting Started with Go and the Web"
+            }
+          },
+          {
+            "id": "b8e1cec813fb35b3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b8e1cec813fb35b3",
+  "lastOpenFiles": [
+    "Getting Started with Go and the Web.pdf",
+    "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+    "01 Learn a Programming Language/Introduction to Go.md",
+    "01 Learn a Programming Language/Visit Dedicated Go Roadmap.md",
+    "01 Learn a Programming Language/Go.md",
+    "01 Learn a Programming Language/Learn a Programming Language.md",
+    "ROADMAP.md",
+    "README.md",
+    "01 Learn a Programming Language/Why use Go.md",
+    "JavaScript, Node.js.md",
+    "01 Learn a Programming Language/1. Learn a Programming Language.md",
+    "01 Learn a Programming Language"
+  ]
+}
