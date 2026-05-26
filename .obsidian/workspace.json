@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "d76c722c37dba05a",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c96e7d9b7c3dd67f",
+  "active": "b8e1cec813fb35b3",
   "lastOpenFiles": [
     "01 Learn a Programming Language/Variables & Constants.md",
     "01 Learn a Programming Language/Visit Dedicated Go Roadmap.md",
