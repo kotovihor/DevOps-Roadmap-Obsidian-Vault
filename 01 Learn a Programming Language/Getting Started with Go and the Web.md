@@ -557,7 +557,7 @@ http.ListenAndServe(":80", nil)
 ##### Що таке `http.ListenAndServe`
 - Функція має такий вигляд:
 ```Go
-http:ListenAndServe(addr string, handler Handler)
+http.ListenAndServe(addr string, handler Handler)
 ```
 - Тобто вона приймає два параметри:
 ```Go

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+                "file": "01 Learn a Programming Language/How to use Variables and Constants in Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Started with Go and the Web"
+              "title": "How to use Variables and Constants in Go"
             }
           }
         ]
@@ -194,14 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8e1cec813fb35b3",
+  "active": "c96e7d9b7c3dd67f",
   "lastOpenFiles": [
-    "01 Learn a Programming Language/Getting Started with Go and the Web.md",
-    "01 Learn a Programming Language/Introduction to Go.md",
-    "Getting Started with Go and the Web.pdf",
+    "01 Learn a Programming Language/Variables & Constants.md",
     "01 Learn a Programming Language/Visit Dedicated Go Roadmap.md",
+    "01 Learn a Programming Language/Introduction to Go.md",
     "01 Learn a Programming Language/Go.md",
+    "01 Learn a Programming Language/Getting Started with Go and the Web.md",
+    "01 Learn a Programming Language/How to use Variables and Constants in Go.md",
     "01 Learn a Programming Language/Learn a Programming Language.md",
+    "Getting Started with Go and the Web.pdf",
     "ROADMAP.md",
     "README.md",
     "01 Learn a Programming Language/Why use Go.md",
